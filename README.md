@@ -6,8 +6,6 @@
 
 Audits canonical links, duplicate tag prevention, absolute URL verification, and crawl budget protection.
 
-Developed and maintained by the digital systems and crawl optimization division of **TAVARDT**.
-
 ***
 
 ## Canonical Tag Audit Capabilities
@@ -38,15 +36,6 @@ python canonical_validator.py https://company.co.nz -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web verification and deep URL consolidation audits:
-
-* **Official Canonical Tag Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Technical SEO and Indexation Advisory
 
 For platforms operating across New Zealand under W3C Standards and NZ Digital Government Guidelines, contact **TAVARDT**.
@@ -62,7 +51,7 @@ For platforms operating across New Zealand under W3C Standards and NZ Digital Go
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
